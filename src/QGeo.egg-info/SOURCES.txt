@@ -1,0 +1,11 @@
+pyproject.toml
+src/QGeo/QGeoSolver.py
+src/QGeo/__init__.py
+src/QGeo/boilerplate.py
+src/QGeo/differential_equations.py
+src/QGeo/pauli_basis.py
+src/QGeo.egg-info/PKG-INFO
+src/QGeo.egg-info/SOURCES.txt
+src/QGeo.egg-info/dependency_links.txt
+src/QGeo.egg-info/top_level.txt
+src/QGeoPackage/__init__.py

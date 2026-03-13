@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "QGeo"
+version = "0.1.0"
+dependencies = [
+    "numpy",
+    "numba",
+    "tqdm",
+    "pylatexenc",
+    "matplotlib",
+    "qiskit",
+    "psutil",
+    "ipykernel"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
